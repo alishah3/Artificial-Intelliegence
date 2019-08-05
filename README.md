@@ -1,0 +1,2 @@
+# Artificial-Intelliegence
+AI Class
